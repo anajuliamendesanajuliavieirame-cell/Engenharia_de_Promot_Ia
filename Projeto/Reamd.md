@@ -1,3 +1,4 @@
+
 Projeto Módulo 3 – Low Code/No Code/Vibecode
 Desafio Escolhido
 Criação de um Portal Católico Integrado: O desafio consistiu em desenvolver uma plataforma centralizada para a comunidade cristã, para rezas, organização de repertório musical para missas.
